@@ -7,7 +7,7 @@ AREO_HAWKS; Paper airplane modification, research
 ~~취소선~~은 해고
 | 기수 | 멤버 |
 | ------ | ------ |
-| 1 | J. HADAM, K. IAN, Pacto7107 |
+| 1 | JACOB0508, K. IAN, Pacto7107 |
 | 2 | L. SEOU |
 | 3 | L. eunsol, ~~S. chansol~~ |
 
