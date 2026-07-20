@@ -9,5 +9,6 @@ AREO_HAWKS; Paper airplane modification, research
 | ------ | ------ |
 | 1 | JACOB0508, K. IAN, Pacto7107 |
 | 2 | L. SEOU |
-| 3 | L. eunsol, ~~S. chansol~~ |
+| 3 | L. eunsol |
+| 4 | L. wonhyeon |
 
